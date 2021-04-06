@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 40AC-0D5F
+
+ Directory of C:\Git\Myfolder
+
+06-04-2021  15:11    <DIR>          .
+06-04-2021  15:11    <DIR>          ..
+06-04-2021  15:11                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  51,730,640,896 bytes free
